@@ -6,6 +6,6 @@
 ## Принцип работы программы
 #### Программа была написана в VS Code, но отрыть её можно в абсолютно любой среде программирования. Чтобы воспользоваться программой, вам надо открыть файл с названием "Фт-210007 Глухов М. Н. Lab_6", нажать Enter и следовать инструкции.
 
-![1](https://user-images.githubusercontent.com/113675991/197250728-05446fe3-3ec7-49c4-bcb9-fb7a130713c0.png)
+## ![1](https://user-images.githubusercontent.com/113675991/197250728-05446fe3-3ec7-49c4-bcb9-fb7a130713c0.png)
 
-![2](https://user-images.githubusercontent.com/113675991/197250752-15ddd79d-1d30-46ff-b030-fa5c896494ec.png)
+## ![2](https://user-images.githubusercontent.com/113675991/197250752-15ddd79d-1d30-46ff-b030-fa5c896494ec.png)
